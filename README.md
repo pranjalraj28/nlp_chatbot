@@ -34,16 +34,30 @@ Customization
 Data Source: You can replace set_data.txt with your own text data for different chatbot behavior.
 
 Responses: Modify the greet_responses variable to customize greeting responses.
-<br>
+<br> 
+
+
 Author
-[Pranjal Raj]
 <br>
-GitHub: pranjalraj28
+  
+[Pranjal Raj]  
+
 <br>
-License
+GitHub: pranjalraj28  
+
+
+<br>
+
+License  
+<br>
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+<br>
+
 Acknowledgments
+
+<br>
+
 This code was inspired by various NLP and chatbot tutorials and resources available online.
 Feel free to contribute, report issues, or suggest improvements! We appreciate your feedback.
 
