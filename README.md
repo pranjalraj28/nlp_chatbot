@@ -25,19 +25,21 @@ This Python code implements a retrieval-based chatbot using Natural Language Pro
 <br>
 2. Run the Chatbot: Execute the Python script:
 
-<br>
+
 python chatbot.py
-<br>
+
 3. Start Conversations: Greet the chatbot to initiate conversations. It will respond to your inputs based on the provided data.
 <br>
 Customization
 Data Source: You can replace set_data.txt with your own text data for different chatbot behavior.
 
 Responses: Modify the greet_responses variable to customize greeting responses.
-
+<br>
 Author
 [Pranjal Raj]
+<br>
 GitHub: pranjalraj28
+<br>
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
