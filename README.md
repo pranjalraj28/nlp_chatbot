@@ -19,16 +19,17 @@ This Python code implements a retrieval-based chatbot using Natural Language Pro
 2. **Library Installation:** Install the required libraries using pip:
    ```shell
    pip install nltk scikit-learn
+<br>
 
-//////
 1. Data Preparation: Place the text data you want the chatbot to operate on in a file named 'set_data.txt' in the '/content' directory.
-
+<br>
 2. Run the Chatbot: Execute the Python script:
 
-//////
+<br>
 python chatbot.py
+<br>
 3. Start Conversations: Greet the chatbot to initiate conversations. It will respond to your inputs based on the provided data.
-////
+<br>
 Customization
 Data Source: You can replace set_data.txt with your own text data for different chatbot behavior.
 
